@@ -1,0 +1,65 @@
+{
+  "name": "Super Store Executive Indigo & Crimson Theme",
+  "dataColors": [
+    "#4338CA",
+    "#059669",
+    "#D97706",
+    "#E11D48",
+    "#7C3AED",
+    "#0D9488",
+    "#1E1B4B",
+    "#BE123C",
+    "#2563EB",
+    "#EA580C",
+    "#6366F1",
+    "#10B981",
+    "#F59E0B",
+    "#F43F5E",
+    "#8B5CF6",
+    "#14B8A6",
+    "#312E81",
+    "#9F1239",
+    "#3B82F6",
+    "#F97316",
+    "#4F46E5",
+    "#047857",
+    "#B45309",
+    "#FB7185",
+    "#A855F7",
+    "#0F766E",
+    "#1E293B",
+    "#881337",
+    "#1D4ED8",
+    "#C2410C",
+    "#3730A3",
+    "#065F46"
+  ],
+  "background": "#F4F3F8",
+  "foreground": "#1E1B4B",
+  "tableAccent": "#4338CA",
+  "good": "#059669",
+  "neutral": "#D97706",
+  "bad": "#E11D48",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Bold",
+      "color": "#1E1B4B"
+    },
+    "title": {
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1E1B4B"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1E1B4B"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#334155"
+    }
+  }
+}
